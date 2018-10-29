@@ -27,6 +27,7 @@ image but not the artist.
 16. Find the artists by country.
 17. Find the artists by birth year.
 
+Usage Notes:
 1. In your tomcat, move the hw1 directory to your /webapps/ROOT
 
 2. In your tomcat configuration, set the default page as "hw1/main.jsp" since all the related files are in hw1 directory.
